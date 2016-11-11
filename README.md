@@ -4,10 +4,6 @@ Kjo lëndë zhvillohet në vitin e dytë të studimeve Master i Shkencave në Te
 
 #Grupet e Punës të Studentëve
 
-##G1 
+##G3
 
-Anëtari 1, Anëtari 2, ...
-
-##G2
-
-..
+Alekta Guxha, Anxhela Kosta, Brisilda Topllari, Eljona Kenaj.
